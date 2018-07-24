@@ -1,1 +1,2 @@
-# Sensor data processing pipeline - Kafka -> Spark streams -> HBase
+# Sensor data processing pipeline with Kafka
+Kafka -> Spark streaming -> HBase -> Impala
